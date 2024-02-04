@@ -1,0 +1,18 @@
+/* abel-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/abel-v18-latin-regular.woff2") format("woff2");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Abel";
+}
