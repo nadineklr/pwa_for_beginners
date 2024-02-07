@@ -1,12 +1,14 @@
 // prepare caching
 const cacheName = "myPWACache-1"; // name cache version to check if cache update works
 const precachedResources = [
+  "./",
   "index.html",
   "js/main.js",
   "manifest.json",
   "icons/manifest-icon-192.maskable.png",
   "icons/manifest-icon-512.maskable.png",
   "fonts/abel-v18-latin-regular.woff2",
+  "icons/icon.png",
 
   //  resources to be precached
 ];
